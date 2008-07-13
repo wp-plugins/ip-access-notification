@@ -3,7 +3,7 @@ Contributors: Alphawolf
 Donate link: http://www.schloebe.de/donate/
 Tags: ip, notification, frontend, admin, email
 Requires at least: 1.5
-Tested up to: 2.5+
+Tested up to: 2.6
 Stable tag: trunk
 
 Sends out an email to the blog admin when a user accesses the blog with a certain IP address.
