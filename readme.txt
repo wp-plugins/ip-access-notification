@@ -10,6 +10,8 @@ Sends out an email to the blog admin when a user accesses the blog with a certai
 
 == Description ==
 
+**Discontinued**
+
 Sends out an email to the blog admin when a user accesses the blog with a certain IP address. The email will be sent out only once a visitor's browser session to avoid email spam to you. ;-)
 
 There's only one thing to be edited in order to make this work properly. Line 14:
