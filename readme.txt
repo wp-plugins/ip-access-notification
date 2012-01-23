@@ -26,7 +26,7 @@ That's where you put the IP(s). If you want to check for more than one IP, add m
 
 You may also find this plugin helpful: [Cookie Access Notification](http://wordpress.org/extend/plugins/cookie-access-notification/)
 
-[Developer on Google+](https://plus.google.com/100776016153395792354 "Developer on Google+") | [Developer on Twitter](http://twitter.com/wpseek "Developer on Twitter")
+[Developer on Google+](https://plus.google.com/118074611982254715031 "Developer on Google+") | [Developer on Twitter](http://twitter.com/wpseek "Developer on Twitter")
 
 **Want update feeds, code documentation and more? Visit [extend.schloebe.de](http://extend.schloebe.de)**
 
