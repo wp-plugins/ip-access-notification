@@ -3,7 +3,7 @@ Contributors: Alphawolf
 Donate link: http://www.schloebe.de/donate/
 Tags: ip, notification, frontend, admin, email
 Requires at least: 1.5
-Tested up to: 2.6
+Tested up to: 4.1
 Stable tag: trunk
 
 Sends out an email to the blog admin when a user accesses the blog with a certain IP address.
@@ -27,6 +27,8 @@ That's where you put the IP(s). If you want to check for more than one IP, add m
 You may also find this plugin helpful: [Cookie Access Notification](http://wordpress.org/extend/plugins/cookie-access-notification/)
 
 [Developer on Google+](https://plus.google.com/118074611982254715031 "Developer on Google+") | [Developer on Twitter](http://twitter.com/wpseek "Developer on Twitter")
+
+[Become A Patron, Support The Developer.](http://www.patreon.com/oliver_schloebe "Become A Patron, Support The Developer.")
 
 **Want update feeds, code documentation and more? Visit [extend.schloebe.de](http://extend.schloebe.de)**
 
